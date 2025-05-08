@@ -19,7 +19,7 @@ I am an undergraduate student researcher in Ghent University 🏫 Research Centr
 - BA2: Animal Biology/Plant Biology/Microbiology/Biochemistry: Metabolism/Chemical Analytical Methods/Mathematics2: Multivariable Calculus and Geometry/Mathematics3: Differential Equations/Organic Chemistry/Physics3: Electricity and Magnetism/Physics4: Optics and Physical and Chemical Thermodynamics/Environmental Chemistry and Technology: Concepts and Methods/Molecular Biology: Concepts and Methods/Modern Aspects of Food
 - BA1: General Biology/Introduction to Engineering Mathematics/English for Academic Studies/Informatics/Inorganic Chemistry/Mathematics 1: One-variable calculus and algebra/Physics 1: Mechanics, Motion, Energy and Momentum/Physics 2: Vibration, Waves and Thermodynamics/Introduction to Biochemistry: Biomolecules
 
-### 🖥️ AI school
+### 🖥️ [AI school](https://github.com/powersimmani/AIVS)
 - 2025 AIWS advanced group: AI-powered QC in Bioprocessing: Automation of CRO test with 
 CV
 - 2024 AISS basic group: Harmful Brain Activity Classification
