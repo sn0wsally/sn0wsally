@@ -24,6 +24,12 @@ I am an undergraduate student researcher in Ghent University 🏫 Research Centr
 CV
 - 2024 AISS basic group: Harmful Brain Activity Classification
 
+## ⌨️ Skills
+- Python
+- R
+- SQL (Structured Query Language developer (SQLd), KData)
+- ADsP (Advanced Data Analytics Semi-Professional, KData)
+
 ## 👯 Collaboration
 ## 🤔 Looking for ...
 - Enthusiastic partner to find a new journey in research
