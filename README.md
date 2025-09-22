@@ -21,10 +21,13 @@ I am an undergraduate student researcher in Ghent University 🏫 Research Centr
 
 ### 🖥️ [AI school](https://github.com/powersimmani/AIVS)
 - 2025 AISS advanced plus group: drug discovery
+  
   (Self-study Project: LLM based toxicity prediction in drug discovery)
 - 2025 AIWS advanced group
+  
   (Self-study Project: AI-powered QC in Bioprocessing; Automation of CRO test with CV)
 - 2024 AISS basic group
+
   (Self-study Project: Harmful Brain Activity Classification)
 
 ## ⌨️ Skills
