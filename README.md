@@ -20,15 +20,15 @@ I am an undergraduate student researcher in Ghent University 🏫 Research Centr
 - BA1: General Biology/Introduction to Engineering Mathematics/English for Academic Studies/Informatics/Inorganic Chemistry/Mathematics 1: One-variable calculus and algebra/Physics 1: Mechanics, Motion, Energy and Momentum/Physics 2: Vibration, Waves and Thermodynamics/Introduction to Biochemistry: Biomolecules
 
 ### 🖥️ [AI school](https://github.com/powersimmani/AIVS)
-- 2025 AISS advanced plus group: drug discovery
-- 2025 AIWS advanced group: AI-powered QC in Bioprocessing: Automation of CRO test with 
-CV
-- 2024 AISS basic group: Harmful Brain Activity Classification
+- 2025 AISS advanced plus group: drug discovery (Self-study Project: LLM based toxicity prediction in drug discovery)
+- 2025 AIWS advanced group (Self-study Project: AI-powered QC in Bioprocessing; Automation of CRO test with CV)
+- 2024 AISS basic group (Self-study Project: Harmful Brain Activity Classification)
 
 ## ⌨️ Skills
 - Python
 - R
 - SQL (Structured Query Language developer (SQLd), KData)
+- ADP (Advanced Data Analytics Professional, KData)
 - ADsP (Advanced Data Analytics Semi-Professional, KData)
 
 ## 👯 Collaboration
